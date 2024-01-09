@@ -1,0 +1,9 @@
+{
+	"name": "noel-datafactory-alura",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "31b3039a-7d56-4e50-83d3-55a97311d7d0",
+		"tenantId": "9da2a2ba-b146-4f0c-aa06-750346f861fe"
+	}
+}
